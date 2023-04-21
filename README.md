@@ -25,7 +25,7 @@ Here are a few technologies I've been working with recently:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-# Blog posts
+### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Let’s use Vue3 Features in Your Vue2 Project](https://medium.com/ascentic-technology/lets-use-vue3-features-in-your-vue2-project-f81a65ec5267?source=rss-c637e72c5493------2)
 - [Sticky ScrollSpy Table of Contents in Vue.js](https://medium.com/ascentic-technology/sticky-scrollspy-table-of-contents-in-vue-js-73d2d6f0a1cd?source=rss-c637e72c5493------2)
