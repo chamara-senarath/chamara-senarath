@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@1.8.4
         with:
           feed_list: "https://medium.com/feed/@chamaraS"
+          max_post_count: 10
