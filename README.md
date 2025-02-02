@@ -28,6 +28,7 @@ Here are a few technologies I've been working with recently:
 
 ### 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning Zed into My Productivity Beast](https://medium.com/@chamaraS/turning-zed-into-my-productivity-beast-ffe5be1900a3?source=rss-c637e72c5493------2)
 - [How I Fixed Sluggish Performance in My React App with Virtual Rendering Magic](https://medium.com/@chamaraS/how-i-fixed-sluggish-performance-in-my-react-app-with-virtual-rendering-magic-a964af51feae?source=rss-c637e72c5493------2)
 - [Building a Microservice Architecture with Node.js: Part 2](https://medium.com/@chamaraS/building-a-microservice-architecture-with-node-js-part-2-e7f4a28918b6?source=rss-c637e72c5493------2)
 - [ResizeObserver for React Developers](https://medium.com/@chamaraS/resizeobserver-for-react-developers-a91df3608944?source=rss-c637e72c5493------2)
