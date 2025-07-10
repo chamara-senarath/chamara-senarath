@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate software engineer with 3+ years of experience in building scalable web applications. My primary focus is to create solutions that solve real-world problems using cutting-edge technologies.
+I'm a passionate software engineer with 5+ years of experience in building scalable web applications. My primary focus is to create solutions that solve real-world problems using cutting-edge technologies.
 
 ### 🛠️ Tech Stack
 
