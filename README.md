@@ -2,7 +2,7 @@
 
 # Hi, I'm Chamara Senarath! 👋
 
-## Senior Software Engineer
+## Associate Technical Lead
 
 ### 🚀 About Me
 
